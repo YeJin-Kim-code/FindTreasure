@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: 274ddaefe0d638f489ee945b90872fc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5359796110190752530
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_0
+  - first:
+      213: -3595541534021063977
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_1
+  - first:
+      213: 6924738222819336767
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_2
+  - first:
+      213: 3275074656628189757
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_3
+  - first:
+      213: 6297856790554278614
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_4
+  - first:
+      213: 2275138729723068454
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_5
+  - first:
+      213: -6986676271910801870
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_6
+  - first:
+      213: 4078667084476223056
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_7
+  - first:
+      213: 1743291211318039585
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_8
+  - first:
+      213: -3614678566136970620
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_9
+  - first:
+      213: -8718219928005001395
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_10
+  - first:
+      213: -8076776848659318578
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_11
+  - first:
+      213: -520634803792401279
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_12
+  - first:
+      213: -4836328285147137927
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_13
+  - first:
+      213: -5247780762988739816
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_14
+  - first:
+      213: 991797782393773336
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_15
+  - first:
+      213: -995284420918512083
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_16
+  - first:
+      213: 3494315632056863942
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_17
+  - first:
+      213: 3095595533686109343
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_18
+  - first:
+      213: 1399079570065232377
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_19
+  - first:
+      213: -6116031497255736932
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_20
+  - first:
+      213: 757596060573980258
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_21
+  - first:
+      213: 1952456849751743028
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_22
+  - first:
+      213: -8866494804340235749
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_23
+  - first:
+      213: -4220533078190395424
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_24
+  - first:
+      213: -6306771307285444090
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_25
+  - first:
+      213: -7433210806912431335
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_26
+  - first:
+      213: 517122616769201880
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_27
+  - first:
+      213: 1841634537906389986
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_28
+  - first:
+      213: -2973614139495570884
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_29
+  - first:
+      213: 4257280738018907356
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_30
+  - first:
+      213: -7070331424978314549
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_31
+  - first:
+      213: 2666750474901080754
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_32
+  - first:
+      213: 5621848584140784560
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_33
+  - first:
+      213: -8799079799123704214
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_34
+  - first:
+      213: -5533426801298682197
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_35
+  - first:
+      213: -4790708591368307718
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_36
+  - first:
+      213: 60706969478983970
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_37
+  - first:
+      213: -6285020542856781148
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_38
+  - first:
+      213: 5307486121548061102
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_39
+  - first:
+      213: 2688211922358259080
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_40
+  - first:
+      213: -8774785790194821162
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_41
+  - first:
+      213: 231981231052910198
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_42
+  - first:
+      213: -3032193666594777171
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_43
+  - first:
+      213: -8406136181173780298
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_44
+  - first:
+      213: -4316582890616783842
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_45
+  - first:
+      213: 3075034368725090760
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_46
+  - first:
+      213: -5762110571109546988
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_47
+  - first:
+      213: 1430254224971492952
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_48
+  - first:
+      213: -3824094355186387415
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_49
+  - first:
+      213: -4758370335200363850
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_50
+  - first:
+      213: 3120848171625177899
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_51
+  - first:
+      213: -5621999183926273660
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_52
+  - first:
+      213: -7857106198602055243
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_53
+  - first:
+      213: 2674466675723398288
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_54
+  - first:
+      213: -367613395810381364
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_55
+  - first:
+      213: 5901287535054894870
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_56
+  - first:
+      213: 7577532376351366152
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_57
+  - first:
+      213: 7401864275043765194
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_58
+  - first:
+      213: -1848999734603206786
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_59
+  - first:
+      213: -4306871924475982373
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_60
+  - first:
+      213: -8827839417046251048
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_61
+  - first:
+      213: 5066280632400891729
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_62
+  - first:
+      213: -4141272867466060432
+    second: treasure1
+  - first:
+      213: 4364502872227004497
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_64
+  - first:
+      213: -2223968239742030120
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_65
+  - first:
+      213: -4160264467499947910
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_66
+  - first:
+      213: 8523920092915154848
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_67
+  - first:
+      213: 2530153953789370626
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_68
+  - first:
+      213: -7920950475428840779
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_69
+  - first:
+      213: -8060347008066366603
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_70
+  - first:
+      213: 6830076204770286094
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_71
+  - first:
+      213: 8129459045035147044
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_72
+  - first:
+      213: 9041110760758847495
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_73
+  - first:
+      213: 5118244821187516380
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_74
+  - first:
+      213: -1170015128793886509
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_75
+  - first:
+      213: 3499130463868537680
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_76
+  - first:
+      213: 1421001794894292243
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_77
+  - first:
+      213: -4784716208382898466
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_78
+  - first:
+      213: 2527278319569080163
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_79
+  - first:
+      213: -6470518553820095180
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_80
+  - first:
+      213: -7265365658591831736
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_81
+  - first:
+      213: 3890160963245501154
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_82
+  - first:
+      213: -2920664323096260958
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_83
+  - first:
+      213: 7275773891967258211
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_84
+  - first:
+      213: 6069696516554631981
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_85
+  - first:
+      213: -5984607179019383349
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_86
+  - first:
+      213: -6631313849205255507
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_87
+  - first:
+      213: -7478394126988852142
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_88
+  - first:
+      213: -7624130976593967727
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_89
+  - first:
+      213: -287072560999303021
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_90
+  - first:
+      213: -5666972686445504315
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_91
+  - first:
+      213: -2794031947477430582
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_92
+  - first:
+      213: -8681705897737896275
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_93
+  - first:
+      213: -3098187322977494969
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_94
+  - first:
+      213: -1403791220425090094
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_95
+  - first:
+      213: -2504409724644144166
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_96
+  - first:
+      213: 1718242438880242855
+    second: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_97
+  - first:
+      213: 868077056684289184
+    second: treasure2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1720
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec4f8fc5dd2e95b0800000000000000
+      internalID: -5359796110190752530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1806
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dae28956021a1ec0800000000000000
+      internalID: -3595541534021063977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1812
+        width: 381
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3267bd89bc991060800000000000000
+      internalID: 6924738222819336767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_3
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1840
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a25315c07637d20800000000000000
+      internalID: 3275074656628189757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_4
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1840
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf44f226b766750800000000000000
+      internalID: 6297856790554278614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_5
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1840
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62080e7de9ae29f10800000000000000
+      internalID: 2275138729723068454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1834
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e2b1c92f65a0f90800000000000000
+      internalID: -6986676271910801870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1840
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e88478a165a9830800000000000000
+      internalID: 4078667084476223056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1840
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241caece1a613810800000000000000
+      internalID: 1743291211318039585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_9
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1840
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820038def416ddc0800000000000000
+      internalID: -3614678566136970620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_10
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1840
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fb785aa29a20780800000000000000
+      internalID: -8718219928005001395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1840
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ff8daf3689ef80800000000000000
+      internalID: -8076776848659318578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_12
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1840
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18caf36876556c8f0800000000000000
+      internalID: -520634803792401279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_13
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1840
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97871a27c09e1ecb0800000000000000
+      internalID: -4836328285147137927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_14
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1834
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8138de233332c27b0800000000000000
+      internalID: -5247780762988739816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_15
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1840
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dd99c04d293cd00800000000000000
+      internalID: 991797782393773336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_16
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1834
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26fba8a71a0032f0800000000000000
+      internalID: -995284420918512083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1812
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc08ddbd8d4e7030800000000000000
+      internalID: 3494315632056863942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_18
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1812
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9475a99cb3c5fa20800000000000000
+      internalID: 3095595533686109343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_19
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1812
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f19e32d4778a6310800000000000000
+      internalID: 1399079570065232377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_20
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1812
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99a8f2e1cd7f1ba0800000000000000
+      internalID: -6116031497255736932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_21
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1812
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2665fb96a95838a00800000000000000
+      internalID: 757596060573980258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_22
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1812
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1bb80925881b10800000000000000
+      internalID: 1952456849751743028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_23
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1812
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b122470c3f1e3f480800000000000000
+      internalID: -8866494804340235749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_24
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1812
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efeca7d687ad65c0800000000000000
+      internalID: -4220533078190395424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_25
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1812
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a00a529e8d978a0800000000000000
+      internalID: -6306771307285444090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_26
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1807
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bc369672ee7d890800000000000000
+      internalID: -7433210806912431335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_27
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1812
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d649d5b7403d2700800000000000000
+      internalID: 517122616769201880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_28
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1807
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e34006dadcce8910800000000000000
+      internalID: 1841634537906389986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_29
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1812
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32a94ce1b99bb6d0800000000000000
+      internalID: -2973614139495570884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_30
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1812
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4dab27646e41b30800000000000000
+      internalID: 4257280738018907356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_31
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1812
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad2e9770321ed90800000000000000
+      internalID: -7070331424978314549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_32
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1812
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba45198d63320520800000000000000
+      internalID: 2666750474901080754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_33
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1812
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b38ebe5081d40e40800000000000000
+      internalID: 5621848584140784560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1783
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a668aeeca8363e580800000000000000
+      internalID: -8799079799123704214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_35
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1778
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae47fd34a15533b0800000000000000
+      internalID: -5533426801298682197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_36
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1783
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb741d1bebf38db0800000000000000
+      internalID: -4790708591368307718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_37
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1783
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2217f27caaca7d000800000000000000
+      internalID: 60706969478983970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_38
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1783
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a22df0ad1f17c8a0800000000000000
+      internalID: -6285020542856781148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_39
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1783
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9103dd18af7a940800000000000000
+      internalID: 5307486121548061102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_40
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1783
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d422920827e4520800000000000000
+      internalID: 2688211922358259080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_41
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1783
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7da4b80d2b93680800000000000000
+      internalID: -8774785790194821162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_42
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1783
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e677753b9283300800000000000000
+      internalID: 231981231052910198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_43
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1783
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7dd6ceceb7be5d0800000000000000
+      internalID: -3032193666594777171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_44
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1783
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0049b4ea7675b80800000000000000
+      internalID: -8406136181173780298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_45
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1783
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf1413bba6814c0800000000000000
+      internalID: -4316582890616783842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1716
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c10af35777bcaa20800000000000000
+      internalID: 3075034368725090760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1714
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4140e7ce6fed800b0800000000000000
+      internalID: -5762110571109546988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_48
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1755
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6de9c3a849d310800000000000000
+      internalID: 1430254224971492952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_49
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1755
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f983e1761eeac0800000000000000
+      internalID: -3824094355186387415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_50
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1751
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba30ac146fd6fdb0800000000000000
+      internalID: -4758370335200363850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1755
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2365ab80ea7f4b20800000000000000
+      internalID: 3120848171625177899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_52
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1755
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d9826785aaf1b0800000000000000
+      internalID: -5621999183926273660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_53
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1755
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10ec58a83f5f290800000000000000
+      internalID: -7857106198602055243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_54
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1755
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cec1a854d9d1520800000000000000
+      internalID: 2674466675723398288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_55
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1755
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11c007099f5eaf0800000000000000
+      internalID: -367613395810381364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_56
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1755
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617336c2fb595e150800000000000000
+      internalID: 5901287535054894870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_57
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1755
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd17e7c8dc82960800000000000000
+      internalID: 7577532376351366152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_58
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1755
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb43a56754b8b660800000000000000
+      internalID: 7401864275043765194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_59
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1755
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f2f2da9880756e0800000000000000
+      internalID: -1848999734603206786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_60
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1755
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd8180bdcaea34c0800000000000000
+      internalID: -4306871924475982373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_61
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1755
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d944c472d63d7580800000000000000
+      internalID: -8827839417046251048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_62
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1755
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f42b2946b0f4640800000000000000
+      internalID: 5066280632400891729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1058
+        width: 344
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd8b8b44e3786c0800000000000000
+      internalID: -4141272867466060432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_64
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1735
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1504348fc34d19c30800000000000000
+      internalID: 4364502872227004497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_65
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1735
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deec664ba0e221e0800000000000000
+      internalID: -2223968239742030120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_66
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1735
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786cf24285c346c0800000000000000
+      internalID: -4160264467499947910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_67
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1735
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afb500b92c0b4670800000000000000
+      internalID: 8523920092915154848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1735
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016aaa9d99ec1320800000000000000
+      internalID: 2530153953789370626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_69
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1735
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba3a947281231290800000000000000
+      internalID: -7920950475428840779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_70
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1731
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57352d90a15e32090800000000000000
+      internalID: -8060347008066366603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_71
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1735
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a5e26fe1e49ce50800000000000000
+      internalID: 6830076204770286094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_72
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1735
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ff7630ee3a1d070800000000000000
+      internalID: 8129459045035147044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_73
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1735
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7082ef5c55a787d70800000000000000
+      internalID: 9041110760758847495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_74
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1735
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd75d581c88a70740800000000000000
+      internalID: 5118244821187516380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_75
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1735
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0586a707543cfe0800000000000000
+      internalID: -1170015128793886509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_76
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1735
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc1a12e986f8030800000000000000
+      internalID: 3499130463868537680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_77
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1735
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315edd98a9968b310800000000000000
+      internalID: 1421001794894292243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_78
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1735
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede884085f5499db0800000000000000
+      internalID: -4784716208382898466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_79
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1735
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f0676dd32b21320800000000000000
+      internalID: 2527278319569080163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_80
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1735
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d9af658a91436a0800000000000000
+      internalID: -6470518553820095180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_81
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1735
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849df445d6c3c2b90800000000000000
+      internalID: -7265365658591831736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_82
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1732
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eae65df8c0acf530800000000000000
+      internalID: 3890160963245501154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_83
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1715
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aec0b1c547b777d0800000000000000
+      internalID: -2920664323096260958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_84
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1715
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e05c85ecdb8f460800000000000000
+      internalID: 7275773891967258211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_85
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1715
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b2aabb2d4eb3450800000000000000
+      internalID: 6069696516554631981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_86
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1715
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd0c4e7a7762fca0800000000000000
+      internalID: -5984607179019383349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_87
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1715
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da21ef73037d8f3a0800000000000000
+      internalID: -6631313849205255507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_88
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1715
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254467ae928673890800000000000000
+      internalID: -7478394126988852142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_89
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1715
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195801b6545a13690800000000000000
+      internalID: -7624130976593967727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_90
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1711
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398ffd8d60d140cf0800000000000000
+      internalID: -287072560999303021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_91
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1715
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c81398dd5eda51b0800000000000000
+      internalID: -5666972686445504315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_92
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1715
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec3874fba9939d0800000000000000
+      internalID: -2794031947477430582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_93
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1715
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae3be0db72648780800000000000000
+      internalID: -8681705897737896275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_94
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1715
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748de4e6b070105d0800000000000000
+      internalID: -3098187322977494969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_95
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1715
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db10c7925bb48ce0800000000000000
+      internalID: -1403791220425090094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_96
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1715
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb4d86df9c8e3dd0800000000000000
+      internalID: -2504409724644144166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - JoJos Pitter-Patter Pop - Treasure Chests_97
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1715
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac257ff46c68d710800000000000000
+      internalID: 1718242438880242855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1054
+        width: 357
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac6559db770c0c00800000000000000
+      internalID: 868077056684289184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
